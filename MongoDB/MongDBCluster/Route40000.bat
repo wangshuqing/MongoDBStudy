@@ -1,0 +1,1 @@
+mongos --port 40000 --configdb 222.195.148.178:30000  --chunkSize 1

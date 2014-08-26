@@ -1,0 +1,1 @@
+mongod  --port 27018 --dbpath D:\MongoDB\data\db3 --logpath D:\MongoDB\data\log3\MongoDB.log 

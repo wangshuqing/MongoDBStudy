@@ -1,0 +1,1 @@
+mongod --replSet i4People/222.195.148.178:28010,222.195.148.178:28011   --port 28012 --dbpath F:\MongoDB\data\db\db3 --logpath F:\MongoDB\data\log\log3.log

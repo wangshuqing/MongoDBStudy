@@ -1,0 +1,1 @@
+mongod --port 30000 --dbpath D:\MongoDB\data\config --configsvr

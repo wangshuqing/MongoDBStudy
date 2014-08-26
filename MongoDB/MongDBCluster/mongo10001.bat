@@ -1,0 +1,1 @@
+mongod  --port 10002 --dbpath D:\MongoDB\data\db2 --logpath D:\MongoDB\data\log2\log2.log --shardsvr

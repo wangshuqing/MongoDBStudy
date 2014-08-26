@@ -1,0 +1,1 @@
+db.runCommand({"replSetInitiate":{ "_id":"i4People1", "members":[{"_id":1,"host":"222.195.158.169:27016"},{"_id":2,"host":"222.195.148.120:27016"},{"_id":3,"host":"222.195.148.120:20001","arbiterOnly":true}]}})
